@@ -1,0 +1,5 @@
+<resources>
+    <string name="prefix_en">en</string>
+    <string name="prefix_ru">ru</string>
+    <string name="internet_no_connection">Отсутствует соеденение с интернетом</string>
+</resources>

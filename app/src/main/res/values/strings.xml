@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="act_now">Попробовать снова</string>
+    <string name="text_load">Загрузка</string>
+    <string name="raiting_move">Рейтинг фильмов</string>
+    <string name="raiting">Рейтинг</string>
+</resources>
